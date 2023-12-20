@@ -19,7 +19,7 @@
 */
 
 #define JNI_BOOLEAN "Z";
-#define JNI_byte    "B";
+#define JNI_BYTE    "B";
 #define JNI_CHAR    "C";
 #define JNI_SHORT   "S";
 #define JNI_INT     "I";
